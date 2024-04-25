@@ -2,7 +2,7 @@ from locust import HttpUser, task, between
 
 class WebsiteUser(HttpUser):
     wait_time = between(1, 5)  # Simulate real user waiting time between requests (1 to 5 seconds).
-    host = "https://mywebappmillz.azurewebsites.net"  # Base URL of your Azure App Service
+    host = "https://flask-ml-service-app.azurewebsites.net"  # Base URL of your Azure App Service
 
     @task
     def load_prediction(self):
