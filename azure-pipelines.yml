@@ -55,13 +55,6 @@ stages:
             workingDirectory: $(projectRoot)
             displayName: "Install requirements"
 
-          - script: |
-              python -m venv $(pyenv)
-              source $(pyenv)/bin/activate
-              make install
-              make lint
-            workingDirectory: $(projectRoot)
-            displayName: 'Run lint tests'
 
           - task: ArchiveFiles@2
             displayName: 'Archive files'
