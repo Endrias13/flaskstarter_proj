@@ -13,6 +13,14 @@ Youtube Video Demonstration: https://www.youtube.com/watch?v=VrPfzOkc4R4
 ************************************************************
 
 
+SUMMARY:
+
+This project is designed to demonstrate and facilitate Continuous Integration (CI) and Continuous Delivery (CD) through two primary tasks. Each task leverages automation and cloud technologies to ensure consistent, reliable, and efficient software delivery processes. Here’s a breakdown of the tasks and technologies involved.
+
+This project integrates two comprehensive tasks within a CI/CD framework, leveraging Azure technologies for both testing and deployment. Task 1 provides a robust testing mechanism through a Makefile and Python scripting in Azure Cloud, while Task 2 ensures seamless, continuous delivery of the application to Azure App Service. Together, these tasks streamline the development process, reduce errors, and enhance productivity by automating key steps in the software delivery pipeline.
+
+
+
 ********** Steps for Task 1 (test_hello script) **********
 
 Your project repository should include the following initial files:
