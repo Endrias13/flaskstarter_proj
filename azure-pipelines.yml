@@ -31,6 +31,8 @@ variables:
   ## Python version: 3.8
   pythonVersion: '3.8'
 
+  pyenv: 'antenv'
+
 stages:
   - stage: Build
     displayName: Build stage
@@ -45,8 +47,8 @@ stages:
             displayName: 'Use Python 3.8'
 
           - script: |
-              python -m venv antenv
-              source antenv/bin/activate
+              python -m venv $(pyenv)
+              source $(pyenv)/bin/activate
               python -m pip install --upgrade pip
               pip install setup
               pip install -r requirements.txt
@@ -54,8 +56,8 @@ stages:
             displayName: "Install requirements"
 
           - script: |
-              python -m venv antenv
-              source antenv/bin/activate
+              python -m venv $(pyenv)
+              source $(pyenv)/bin/activate
               make install
               make lint
             workingDirectory: $(projectRoot)
