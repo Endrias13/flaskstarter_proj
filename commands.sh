@@ -1,3 +1,5 @@
+git clone git@github.com:Endrias13/flaskstarter_proj.git
+
 python3 -m venv ~/.flask-ml-azure
 
 source ~/.flask-ml-azure/bin/activate
