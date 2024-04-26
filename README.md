@@ -20,6 +20,15 @@ This project is designed to demonstrate and facilitate Continuous Integration (C
 This project integrates two comprehensive tasks within a CI/CD framework, leveraging Azure technologies for both testing and deployment. Task 1 provides a robust testing mechanism through a Makefile and Python scripting in Azure Cloud, while Task 2 ensures seamless, continuous delivery of the application to Azure App Service. Together, these tasks streamline the development process, reduce errors, and enhance productivity by automating key steps in the software delivery pipeline.
 
 
+Sources to Site: 
+
+1. Manage service connections - https://learn.microsoft.com/en-us/azure/devops/pipelines/library/service-endpoints?view=azure-devops&tabs=yaml
+
+2. Define resources in YAML - https://learn.microsoft.com/en-us/azure/devops/pipelines/process/resources?view=azure-devops&tabs=schema
+
+3. Deploy Flask App - https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app-for-app-service?tabs=web-app-flask
+
+
 
 ********** Steps for Task 1 (test_hello script) **********
 
