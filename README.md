@@ -1,6 +1,9 @@
 
 CI/CD Github Deployment Project:
 
+<img width="938" alt="azure_pipeline_deploy" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/880537ec-47ca-4b5a-9e86-22785ab064dd">
+
+
 *Your project repository should include the following initial files:
   1. Makefile: Automates setup, testing, and other commands.
   2. requirements.txt: Lists all the Python packages your project depends on.
