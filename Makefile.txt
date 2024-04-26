@@ -1,5 +1,5 @@
 setup:
-	python3 -m venv ~/.flask-ml-service
+	python3 -m venv ~/.antenv
 
 install:
 	pip install --upgrade pip &&\
