@@ -75,6 +75,8 @@ Launching Flask Web App:
 <img width="1438" alt="app_servicce" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/525810af-7a43-4acc-81ba-7e529ed555bc">
 
 
+Now, if we launch the site's URL here's we can see the application in motion:
+
 <img width="1220" alt="azure_app_launch" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/3b713f68-5768-458f-a6d8-2b5a0bd51ce1">
 
 
