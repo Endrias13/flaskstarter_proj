@@ -114,7 +114,7 @@ To test the performance of your Flask application, use Locust by writing a locus
 
 
 Continuous Delivery with Azure Pipelines
-Set Up Azure Pipelines: Connect your GitHub repository to Azure Pipelines and configure it to automatically deploy your application to Azure upon a successful build/test cycle. 
+Set Up Azure Pipelines: Connect GitHub repository to Azure Pipelines and configure it to automatically deploy the application to Azure upon a successful build/test cycle. 
 
 <img width="947" alt="azure_pipeline_deployment" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/37a872ec-e6b0-4f13-aa39-9c7d07b376af">
 
