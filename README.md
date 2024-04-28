@@ -67,7 +67,11 @@ Project Scaffolding in Azure Cloud:
 
 GitHub Actions for CI/CD:
 
-Please refer to the 'github_actions.py' yaml file that need to integrated into Github actions
+Please refer to the 'github_actions.py' yaml file that need to integrated into Github actions.
+
+Here's the badge:
+
+[![Python application test with Github Actions](https://github.com/Endrias13/lesson1/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Endrias13/lesson1/actions/workflows/main.yml)
 
 Set up GitHub Actions to automate building and testing for every pull request to your repository. Additionally, configure it to deploy merged pull requests to production.
 
