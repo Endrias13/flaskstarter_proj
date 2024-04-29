@@ -12,6 +12,10 @@ Youtube Video Demonstration: https://www.youtube.com/watch?v=NMdhh7o7Kxw
 
 ************************************************************
 
+Design Architecture 
+
+<img width="377" alt="image" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/c81498f4-71da-40e6-9168-dd5c3496fd4e">
+
 
 SUMMARY:
 
