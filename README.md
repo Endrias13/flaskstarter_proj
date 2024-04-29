@@ -73,6 +73,8 @@ Here's the badge:
 
 [![Python application test with Github Actions](https://github.com/Endrias13/lesson1/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Endrias13/lesson1/actions/workflows/main.yml)
 
+As you can see, thee workflow for github actions is successful 
+
 Set up GitHub Actions to automate building and testing for every pull request to your repository. Additionally, configure it to deploy merged pull requests to production.
 
 <img width="1439" alt="github_actions_passed" src="https://github.com/Endrias13/flaskstarter_proj/assets/33791240/631083c5-2876-43b5-96d6-779b7edfbe1a">
