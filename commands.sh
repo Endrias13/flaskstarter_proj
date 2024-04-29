@@ -1,5 +1,7 @@
 git clone git@github.com:Endrias13/flaskstarter_proj.git
 
+cd flaskstarter_proj
+
 python3 -m venv ~/.myrepo
 
 source ~/.myrepo/bin/activate
