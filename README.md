@@ -8,7 +8,7 @@ Trello Board: https://trello.com/invite/b/G5p5en6j/ATTIce995206d9e2680b4931c5480
 Project Plan Spreadsheet: 
 [project_estimate_sheet.xlsx](https://github.com/Endrias13/flaskstarter_proj/files/15134404/project_estimate_sheet.xlsx)
 
-Youtube Video Demonstration: https://www.youtube.com/watch?v=VrPfzOkc4R4
+Youtube Video Demonstration: https://www.youtube.com/watch?v=NMdhh7o7Kxw
 
 ************************************************************
 
